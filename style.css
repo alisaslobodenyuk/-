@@ -4,7 +4,7 @@ h1 {color: #8F756D; font-size: 60px;
 h2 {color: #8F756D}
 h3 {color: #8F756D}
 a:hover {
-	color: #E6D8C5;
+	color: #8F756D;
 	text-decoration: underline;
 
 }
@@ -17,8 +17,9 @@ a:hover {
 }
 body {
     font-family: 'Montserrat', Arial, sans-serif;
-	 background-color: #FAF0F6
+	 background-color: #EBEBE8
 }
+
 
 
 
