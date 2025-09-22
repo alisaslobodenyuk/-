@@ -1,4 +1,4 @@
-  selector {
+body {
       background-color: DEDCD7;
     }
 h1 {color: pink; font-size: 60px;
@@ -20,6 +20,7 @@ a:hover {
 body {
     font-family: 'Montserrat', Arial, sans-serif;
 }
+
 
 
 
