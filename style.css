@@ -1,10 +1,10 @@
 
-h1 {color: #B8998F; font-size: 60px;
+h1 {color: #8F756D; font-size: 60px;
   text-align: center;}
-h2 {color: #B8998F}
-h3 {color: #B8998F}
+h2 {color: #8F756D}
+h3 {color: #8F756D}
 a:hover {
-	color: #B8998F;
+	color: #E6D8C5;
 	text-decoration: underline;
 
 }
@@ -19,6 +19,7 @@ body {
     font-family: 'Montserrat', Arial, sans-serif;
 	 background-color: #FAF0F6
 }
+
 
 
 
