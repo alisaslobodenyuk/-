@@ -1,7 +1,8 @@
-h1 {background-color: blue}
-h2 {background-color: blue}
-h3 {background-color: blue}
+h1 {color: pink}
+h2 {color: pink}
+h3 {color: pink}
 a:hover {
 	color: pink;
 	text-decoration: underline;
+
 }
