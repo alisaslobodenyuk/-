@@ -1,6 +1,4 @@
-body {
-      background-color: DEDCD7;
-    }
+
 h1 {color: pink; font-size: 60px;
   text-align: center;}
 h2 {color: pink}
@@ -19,7 +17,9 @@ a:hover {
 }
 body {
     font-family: 'Montserrat', Arial, sans-serif;
+	 background-color: DEDCD7;
 }
+
 
 
 
