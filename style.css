@@ -1,10 +1,10 @@
 
-h1 {color: pink; font-size: 60px;
+h1 {color: #B8998F; font-size: 60px;
   text-align: center;}
-h2 {color: pink}
-h3 {color: pink}
+h2 {color: #B8998F}
+h3 {color: #B8998F}
 a:hover {
-	color: pink;
+	color: #B8998F;
 	text-decoration: underline;
 
 }
@@ -17,7 +17,9 @@ a:hover {
 }
 body {
     font-family: 'Montserrat', Arial, sans-serif;
+	 background-color: #FAF0F6
 }
+
 
 
 
